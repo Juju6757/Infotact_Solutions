@@ -1,7 +1,3 @@
-Here is a `README.md` file that explains the workflow, methodology, and contents of your NYC Airbnb data science project.
-
----
-
 # NYC Airbnb Price Prediction & Geospatial Analysis
 
 ## Overview
