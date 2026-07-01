@@ -1,4 +1,4 @@
-# NYC Airbnb Price Prediction & Geospatial Analysis
+# Construction & Real Estate - Geospatial Valuation via Spatial Embeddings
 
 ## Overview
 
