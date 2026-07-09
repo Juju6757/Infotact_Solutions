@@ -47,6 +47,8 @@ To run this project, you will need the following Python libraries installed:
 * `pandas`
 * `numpy`
 * `matplotlib`
+* `seaborn`
+* `haversine`
 * `geopandas`
 * `shapely`
 * `scikit-learn`
