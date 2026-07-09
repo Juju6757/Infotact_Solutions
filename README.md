@@ -53,3 +53,4 @@ To run this project, you will need the following Python libraries installed:
 * `shapely`
 * `scikit-learn`
 * `xgboost`
+* `shap`
